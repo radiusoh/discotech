@@ -25,4 +25,31 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_aPiHoA4bEfGQIcnyQhQ15A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_zBDxcA4kEfGQIcnyQhQ15A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_dbv24A4ZEfGQIcnyQhQ15A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dbv24A4ZEfGQIcnyQhQ15A - orders",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dbv24A4ZEfGQIcnyQhQ15A - shippers",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]

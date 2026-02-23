@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_zBi5oA4kEfGQIcnyQhQ15A" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_zBi5oQ4kEfGQIcnyQhQ15A" comment="" name="From_Day" prompt="From_Day?" promptNeeded="true" repositoryContextId="built-in" type="id_Integer" value="3"/>
+</talendfile:ContextType>
