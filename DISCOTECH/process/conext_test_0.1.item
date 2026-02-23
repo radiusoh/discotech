@@ -106,7 +106,7 @@
   </parameters>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="80" posY="80">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1" show="false"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="// 1. 종료 날짜 계산 (어제: -1)&#xA;context.endDate = TalendDate.addDate(TalendDate.getDate(&quot;yyyyMMdd&quot;), &quot;yyyyMMdd&quot;, -1, &quot;dd&quot;);&#xA;&#xA;// 2. 시작 날짜 계산 (오늘 기준 -daysBefore 만큼)&#xA;// context.daysBefore에 3이 들어있으면 오늘-3일, 30이 들어있으면 오늘-30일이 됩니다.&#xA;context.startDate = TalendDate.addDate(TalendDate.getDate(&quot;yyyyMMdd&quot;), &quot;yyyyMMdd&quot;, -context.From_Day, &quot;dd&quot;);&#xA;&#xA;System.out.println(&quot;조회 시작일: &quot; + context.startDate);&#xA;System.out.println(&quot;조회 종료일: &quot; + context.endDate);"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="// 1. 종료 날짜 계산 (어제: -1)&#xA;context.endDate = TalendDate.addDate(TalendDate.getDate(&quot;yyyyMMdd&quot;), &quot;yyyyMMdd&quot;, -1, &quot;dd&quot;);&#xA;&#xA;// 2. 시작 날짜 계산 (오늘 기준 -daysBefore 만큼)&#xA;// context.daysBefore에 3이 들어있으면 오늘-3일, 30이 들어있으면 오늘-30일이 됩니다.&#xA;context.startDate = TalendDate.addDate(TalendDate.getDate(&quot;yyyyMMdd&quot;), &quot;yyyyMMdd&quot;, -context.daysBefore, &quot;dd&quot;);&#xA;&#xA;System.out.println(&quot;조회 시작일: &quot; + context.startDate);&#xA;System.out.println(&quot;조회 종료일: &quot; + context.endDate);"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tJava_1"/>
