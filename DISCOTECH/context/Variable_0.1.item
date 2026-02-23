@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_zBi5oA4kEfGQIcnyQhQ15A" confirmationNeeded="false" hide="false" name="Default">
   <contextParameter xmi:id="_zBi5oQ4kEfGQIcnyQhQ15A" comment="" name="From_Day" prompt="From_Day?" promptNeeded="true" repositoryContextId="built-in" type="id_Integer" value="3"/>
+  <contextParameter xmi:id="_EnuaEBB-EfGSp89kJhRxEw" comment="" name="startDate" prompt="startDate?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_EnuaERB-EfGSp89kJhRxEw" comment="" name="endDate" prompt="endDate?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_EnuaEhB-EfGSp89kJhRxEw" comment="" name="daysBefore" prompt="daysBefore?" promptNeeded="true" repositoryContextId="built-in" type="id_Integer" value="3"/>
 </talendfile:ContextType>

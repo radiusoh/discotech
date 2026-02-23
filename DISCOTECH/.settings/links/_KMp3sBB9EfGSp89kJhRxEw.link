@@ -1,0 +1,20 @@
+{
+  "itemId" : "_KMp3sBB9EfGSp89kJhRxEw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_zBDxcA4kEfGQIcnyQhQ15A",
+    "parameterList" : [ {
+      "id" : "_EnuaEhB-EfGSp89kJhRxEw",
+      "name" : "daysBefore"
+    }, {
+      "id" : "_EnuaERB-EfGSp89kJhRxEw",
+      "name" : "endDate"
+    }, {
+      "id" : "_zBi5oQ4kEfGQIcnyQhQ15A",
+      "name" : "From_Day"
+    }, {
+      "id" : "_EnuaEBB-EfGSp89kJhRxEw",
+      "name" : "startDate"
+    } ]
+  } ]
+}

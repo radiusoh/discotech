@@ -1,5 +1,24 @@
 [ {
   "baseItem" : {
+    "id" : "_KMp3sBB9EfGSp89kJhRxEw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_zBDxcA4kEfGQIcnyQhQ15A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DISCOTECH:_aPiHoA4bEfGQIcnyQhQ15A",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DISCOTECH:_mbDtkA1QEfGiucLyydp-JQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
     "version" : "0.1",
     "type" : "job"
