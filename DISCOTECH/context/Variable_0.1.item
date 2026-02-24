@@ -4,4 +4,5 @@
   <contextParameter xmi:id="_EnuaEBB-EfGSp89kJhRxEw" comment="" name="startDate" prompt="startDate?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value=""/>
   <contextParameter xmi:id="_EnuaERB-EfGSp89kJhRxEw" comment="" name="endDate" prompt="endDate?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value=""/>
   <contextParameter xmi:id="_EnuaEhB-EfGSp89kJhRxEw" comment="" name="daysBefore" prompt="daysBefore?" promptNeeded="true" repositoryContextId="built-in" type="id_Integer" value="3"/>
+  <contextParameter xmi:id="_pjF8kBEhEfGq9pARk_XukA" comment="" name="errorMessage" prompt="errorMessage?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value=""/>
 </talendfile:ContextType>
