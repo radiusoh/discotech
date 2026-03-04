@@ -2,6 +2,54 @@
   "itemId" : "_KMp3sBB9EfGSp89kJhRxEw",
   "contextList" : [ {
     "contextName" : "Default",
+    "repoId" : "_GBNXUBeWEfG0FsGVcY0uow",
+    "parameterList" : [ {
+      "id" : "_GBoOEReWEfG0FsGVcY0uow",
+      "name" : "DB_Host"
+    }, {
+      "id" : "_GBoOFBeWEfG0FsGVcY0uow",
+      "name" : "DB_Password"
+    }, {
+      "id" : "_GBoOEheWEfG0FsGVcY0uow",
+      "name" : "DB_Port"
+    }, {
+      "id" : "_GBoOExeWEfG0FsGVcY0uow",
+      "name" : "DB_User"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_zBDxcA4kEfGQIcnyQhQ15A",
+    "parameterList" : [ {
+      "id" : "_EnuaEhB-EfGSp89kJhRxEw",
+      "name" : "daysBefore"
+    }, {
+      "id" : "_EnuaERB-EfGSp89kJhRxEw",
+      "name" : "endDate"
+    }, {
+      "id" : "_zBi5oQ4kEfGQIcnyQhQ15A",
+      "name" : "From_Day"
+    }, {
+      "id" : "_EnuaEBB-EfGSp89kJhRxEw",
+      "name" : "startDate"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_GBNXUBeWEfG0FsGVcY0uow",
+    "parameterList" : [ {
+      "id" : "_GBoOFheWEfG0FsGVcY0uow",
+      "name" : "DB_Host"
+    }, {
+      "id" : "_GBoOGReWEfG0FsGVcY0uow",
+      "name" : "DB_Password"
+    }, {
+      "id" : "_GBoOFxeWEfG0FsGVcY0uow",
+      "name" : "DB_Port"
+    }, {
+      "id" : "_GBoOGBeWEfG0FsGVcY0uow",
+      "name" : "DB_User"
+    } ]
+  }, {
+    "contextName" : "Prod",
     "repoId" : "_zBDxcA4kEfGQIcnyQhQ15A",
     "parameterList" : [ {
       "id" : "_EnuaEhB-EfGSp89kJhRxEw",
