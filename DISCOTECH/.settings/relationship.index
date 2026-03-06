@@ -90,6 +90,10 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_8ddmAA4aEfGQIcnyQhQ15A - orders_new",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
     "id" : "_dbv24A4ZEfGQIcnyQhQ15A - orders",
     "version" : "Latest",
     "type" : "schema"
