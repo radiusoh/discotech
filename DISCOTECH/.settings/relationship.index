@@ -108,6 +108,33 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_SBYIUCjTEfGoEYsyYQBa7A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DISCOTECH:_kK_LUCjOEfGoEYsyYQBa7A",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_8ddmAA4aEfGQIcnyQhQ15A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dbv24A4ZEfGQIcnyQhQ15A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_8ddmAA4aEfGQIcnyQhQ15A - etl_metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8ddmAA4aEfGQIcnyQhQ15A - t_sales",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_aPiHoA4bEfGQIcnyQhQ15A",
     "version" : "0.1",
     "type" : "job"
@@ -140,6 +167,17 @@
     "id" : "_dbv24A4ZEfGQIcnyQhQ15A - shippers",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kK_LUCjOEfGoEYsyYQBa7A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_8ddmAA4aEfGQIcnyQhQ15A",
+    "version" : "Latest",
+    "type" : "property"
   } ]
 }, {
   "baseItem" : {
